@@ -28,3 +28,7 @@ Thoughts: I really struggled with CSS, but, overall, I feel like I am slowly get
 **Thoughts:** I really hope I can continue this for next 100 days with my peers of getsetcode, Lets break a leg
 
 **Name:** Jithin
+
+### Day 1: June 15, 2018
+
+**Today's Progress:** Learned a thing or two about vue components. Did some sample code.
